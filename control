@@ -1,0 +1,9 @@
+Package: com.missthee.keepswitcheranimation15
+Name: keepSwitcherAnimation15
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Description: keep switcher animations when Reduce Motion is on
+Maintainer: MissThee
+Author: MissThee
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
